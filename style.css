@@ -1,0 +1,35 @@
+*{
+    padding: 10px;  
+}
+
+.wrapper {
+    width: 200px;
+    background-color: orange;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.ib{display: inline-block;}
+
+h1 {
+    color: brown;
+}
+
+#header {
+    background-color: purple;
+    /* height: 100px; */
+    /* display:inline-block; */
+}
+
+#main-content {
+    background-color: pink;
+    /* display:inline-block; */
+}
+
+#footer {
+    background-color: fuchsia;
+    /* height: 100px; */
+    /* display:inline-block; */
+}
+
+
